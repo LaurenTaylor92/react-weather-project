@@ -25,12 +25,10 @@
   list-style: none;
 }
 
-.Weather img {
+.Weather canvas {
   display: inline-block;
-  height: 60px;
-  margin-top: unset;
+  margin-top: 20px;
   vertical-align: top;
-  width: 60px;
   margin-right: 10px;
 }
 
